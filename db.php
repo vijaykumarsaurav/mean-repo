@@ -2,7 +2,7 @@
 
 	$dbHost = 'localhost';
 	$dbUsername = 'root';
-	$dbPassword = '';
+	$dbPassword = 'aaa';
 	$dbName = 'angular_curd';
 
 	$db = mysqli_connect($dbHost, $dbUsername, $dbPassword, $dbName);
